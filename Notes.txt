@@ -1,0 +1,11 @@
+// General
+1) Event Manager instead of having keyboard in the Shared Context
+2) Logger of some sort ?
+3) Use opengl / directX for more control over graphics ?
+
+// SceneManager
+1) Allow transparency for render function for scenes ? 
+2) Should m_sceneRequest be a vector or requests 
+
+// App
+2) Move Window and Renderer and events to there own class ?
